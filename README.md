@@ -5,6 +5,9 @@
 -    apps is a totally different world!! ha!
 -    YOUR favorite app building tools: If you have a favorite app building tool or platform, I'd love to hear about it. Feel free to email 
 -    at the address below.
+-  
+-    I've had a GitHub account for a while but am just now getting into using it. ANY tips or hints would be extremely helpful. 
+-
 -    My equipment: I have a MacBook Pro 15" (2018) running macOS Monterey version 12.5
 -                  16 GB 2400 MHz DDR4 RAM, Graphics: Radeon Pro 560X 4 GB, Processor 2.6 GHz 6-Core Intel Core i7
 -                  Also have an iPad Pro 12.9" (Fifth Generation) running software version 15.6. 
